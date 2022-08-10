@@ -1,0 +1,14 @@
+{
+  "name": "googlechromeauto",
+  "version": "1.0.0",
+  "description": "Praticando teste automatizado cypress no Google Chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Arielly Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
+}
